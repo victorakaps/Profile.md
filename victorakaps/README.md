@@ -26,7 +26,7 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 
 <br />
 
-[website]: https://parthsethi.me/
+[website]: https://parthsethi.in/
 [twitter]: https://twitter.com/victorakaps
 [instagram]: https://instagram.com/_parth.sethi_
 [linkedin]: https://linkedin.com/in/victorakaps
