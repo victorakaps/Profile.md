@@ -60,7 +60,7 @@ available at [http://contributor-covenant.org/version/1/4][version]
 To learn how to start contributing checkout [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Maintainers
-- [Parth Sethi - victor-thescuti](https://github.com/victor-thescuti)
+- [Parth Sethi - victor-thescuti](https://github.com/victorakaps)
 - [Neeraj Gupta - neeraj15022001](https://github.com/neeraj15022001)
 # Thanks
 
