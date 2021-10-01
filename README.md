@@ -62,6 +62,12 @@ To learn how to start contributing checkout [CONTRIBUTING.md](CONTRIBUTING.md)
 # Maintainers
 - [Parth Sethi - victorakaps](https://github.com/victorakaps)
 - [Neeraj Gupta - neeraj15022001](https://github.com/neeraj15022001)
+
+# Contributors
+<a href="https://github.com/victor-thescuti/Profile.md/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=victor-thescuti/Profile.md" />
+</a>
+
 # Thanks
 
 Don't forget to leave a<br>
