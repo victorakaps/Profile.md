@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="harsh-gautam | Facebook" width="22px" src="https://img.icons8.com/color/50/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="harsh-gautam | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
-[<img align="left" alt="harsh-gautam | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="harsh-gautam | Facebook" width="26px" src="https://img.icons8.com/color/50/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="harsh-gautam | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
+[<img align="left" alt="harsh-gautam | Instagram" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
 
 <br />
 
