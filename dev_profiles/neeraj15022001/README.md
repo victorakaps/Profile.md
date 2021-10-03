@@ -4,18 +4,18 @@
 <p style="font-size:2.5em;font-family: 'Poppins', sans-serif;" >Hey, I am Neeraj</p>
 <hr style="border-color:white;" />
 <a target="_blank" href="mailto:gneeraj32595@gmail.com" target="_blank">
-<img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="./Email.png" />
+<img style="padding:10px 10px 10px 0px;" height="40em" alt="Email" src="https://raw.githubusercontent.com/neeraj15022001/Neeraj15022001/master/Email.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/neeraj3508/" target="_blank">
-<img style="padding:10px;" height="40em" alt="LinkedIn" src="./Linkedin.png" />
+<img style="padding:10px;" height="40em" alt="LinkedIn" src="https://raw.githubusercontent.com/neeraj15022001/Neeraj15022001/master/Linkedin.png" />
 </a>
 <a target="_blank" href="https://twitter.com/_neeraj2001_" target="_blank">
-<img style="padding:10px;" height="40em" alt="Twitter" src="./Twitter.png" />
+<img style="padding:10px;" height="40em" alt="Twitter" src="https://raw.githubusercontent.com/neeraj15022001/Neeraj15022001/master/Twitter.png" />
 </a>
 <a target="_blank" href="https://dev.to/neeraj3508" target="_blank">
-<img style="padding:10px;" height="40em" alt="Practical Dev" src="./Dev.png" />
+<img style="padding:10px;" height="40em" alt="Practical Dev" src="https://raw.githubusercontent.com/neeraj15022001/Neeraj15022001/master/Dev.png" />
 </a>
-<div style="padding: 20px 0px;"><img src="./bg.png" alt="Neeraj Github Banner"></div>
+<div style="padding: 20px 0px;"><img src="https://raw.githubusercontent.com/neeraj15022001/Neeraj15022001/master/bg.png" alt="Neeraj Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
    I am a beginner level iOS and Web Developer and Designer and i have still to explore. So, exploring something new related to these technologies and gaining as much as i can. For Collaboration on a project contact me.
 </p>
