@@ -1,4 +1,10 @@
 # Start Contributing
+
+### In case you know how to fork follow these steps
+1. For contributing in this repository start by creating a **folder** with it's name as your **github username**.
+2. Add your markdown code in a file named README.md which should be contained in folder created above.
+
+### In case you don't know how to fork follow these steps
 1. Click on **Fork** button on top right corner of main repository.
 ![Fork Button](assets/fork_button.png)
 2. Select your **account** if a popup appears asking where to fork ( occurs in case you are member of any organization).
