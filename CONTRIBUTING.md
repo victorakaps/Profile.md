@@ -8,7 +8,8 @@
     ![Code](assets/code_button.png)
 
 5. Now choose either **SSL** or **Github CLI** to clone this forked repository ( HTTPS method is soon going to be deprecated ). For more information click on **Learn More** in popup.
-![Code PopUp](assets/code_popup.png)
+
+    ![Code PopUp](assets/code_popup.png)
 6. Click on **COPY** icon  ![Copy](assets/copy.png).
 7. Now Paste this command in your **Terminal/Powershell**. This will clone forked Repository on your local system.
 8. Now make desired changes.
@@ -33,5 +34,6 @@
     ```
 15. Now navigate to your forked repository on github and click on **contribute** button.
     ![contribute](assets/contribute.png)
-and click on **OPEN PULL REQUEST** button.
+
+    and click on **OPEN PULL REQUEST** button.
 16. Add Pull Request title and description and open pull request.
