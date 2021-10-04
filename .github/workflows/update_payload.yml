@@ -1,0 +1,15 @@
+name: New PR Merged
+on:
+  pull_request:
+    branches: 
+      - main
+    types: 
+      - closed
+jobs:
+  build:
+    if: ${{github.event.pull_request.merged}}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: update payload
+        run: echo Hello, world!
