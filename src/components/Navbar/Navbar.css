@@ -1,0 +1,8 @@
+.custom-nav {
+    height: 90px !important;
+}
+.back-button {
+    width: 45px !important;
+    height: 45px !important;
+    transition: 0.3s ease-in-out;
+}

@@ -1,0 +1,16 @@
+.home-container {
+    height: 100vh;
+}
+.rightFlower, .leftFlower {
+    display: none;
+}
+@media screen and (min-width: 1024px) {
+    .rightFlower {
+        display: block;
+        transform: translateY(-50%);
+    }
+    .leftFlower {
+        display: block;
+        transform: translateY(-50%) rotateY(180deg);
+    }
+}
