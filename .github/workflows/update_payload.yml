@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: update payload
-        run: echo Hello, world!
+        run: curl https://victorakaps.herokuapp.com/projects/profileMd/update-payload
