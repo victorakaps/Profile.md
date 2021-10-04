@@ -1,0 +1,35 @@
+.icon-container {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    z-index: 1000;
+    padding: 16px;
+    font-size: 1.5rem;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    box-shadow: 4px 4px 10px 1px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    outline: none;
+    user-select: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.icon {
+    background-color: transparent !important;
+    cursor: pointer !important;
+}
+@media screen and (min-width: 1024px) {
+    .icon-container:hover {
+        transform: perspective(1px) scale(1.2, 1.2);
+    }
+}
+@media screen and (max-width: 500px) {
+    .icon-container {
+        bottom: 16px;
+        right: 16px;
+    }
+}

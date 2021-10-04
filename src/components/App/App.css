@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+    --theme-brown-100: #a88771;
+    --theme-red-100: #f74700;
+    --theme-red-200: #b53a25;
+    --theme-green-100: #91a88c;
+    --theme-green-200: #677662;
+    --theme-green-300: #2b3531;
+    --theme-yellow-100: #f4f0e1;
+    --theme-blue-100: #DBE8D9;
+}
+::-webkit-scrollbar {
+    display: none !important;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.color-theme-brown-100 {
+    color: var(--theme-brown-100) !important;
+}
+.color-theme-red-100 {
+    color: var(--theme-red-100) !important;
+}
+.color-theme-red-200 {
+    color: var(--theme-red-200) !important;
+}
+.color-theme-green-100 {
+    color: var(--theme-green-100) !important;
+}
+.color-theme-green-200 {
+    color: var(--theme-green-200) !important;
+}
+.color-theme-green-300 {
+    color: var(--theme-green-300) !important;
+}
+.color-theme-yellow-100 {
+    color: var(--theme-yellow-100) !important;
+}
+.color-theme-blue-100 {
+    color: var(--theme-blue-100) !important;
+}
+.bg-theme-blue-100 {
+    background-color: var(--theme-blue-100) !important;
+}
+.bg-theme-brown-100 {
+    background-color: var(--theme-brown-100) !important;
+}
+.bg-theme-red-100 {
+    background-color: var(--theme-red-100) !important;
+}
+.bg-theme-red-200 {
+    background-color: var(--theme-red-200) !important;
+}
+.bg-theme-green-100 {
+    background-color: var(--theme-green-100) !important;
+}
+.bg-theme-green-200 {
+    background-color: var(--theme-green-200) !important;
+}
+.bg-theme-green-300 {
+    background-color: var(--theme-green-300) !important;
+}
+.bg-theme-yellow-100 {
+    background-color: var(--theme-yellow-100) !important;
+}
+.button-theme-red-100 {
+    background-color: var(--theme-red-100) !important;
+}
+.button-theme-red-100:hover {
+    background-color: var(--theme-red-200) !important;
+}
+.button-theme-green-100 {
+    background-color: var(--theme-green-100) !important;
+}
+.button-theme-green-100:hover {
+    background-color: var(--theme-green-200) !important;
+}
+.button-theme-green-200 {
+    background-color: var(--theme-green-200) !important;
+}
+.button-theme-green-200:hover {
+    background-color: var(--theme-green-300) !important;
+}
+.button-theme-green-300 {
+    background-color: var(--theme-green-100) !important;
+}
+.button-theme-green-300:hover {
+    background-color: var(--theme-green-300) !important;
+}
