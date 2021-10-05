@@ -1,10 +1,10 @@
-import React, {useContext} from 'react';
+import React, { useContext } from 'react';
 import { ArrowLeft } from 'react-bootstrap-icons';
 import { Link } from 'react-router-dom';
 import { DarkModeContext } from './imports';
-import "./Navbar.css"
+import './Navbar.css';
 
-function Navbar({title}) {
+function Navbar({ title }) {
     const [toggle] = useContext(DarkModeContext);
     return (
         <nav className="p-3 d-flex align-items-center justify-content-center position-relative custom-nav">
