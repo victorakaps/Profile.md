@@ -1,2 +1,2 @@
-import {DarkModeContext} from "../../context/DarkModeContext/exports"
-export {DarkModeContext}
+import { DarkModeContext } from '../../context/DarkModeContext/exports';
+export { DarkModeContext };

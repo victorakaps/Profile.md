@@ -2,14 +2,16 @@ import React, { useContext } from 'react';
 import './Preloader.css';
 import { logo, DarkModeContext } from './imports';
 function Preloader() {
-    const [toggle,] = useContext(DarkModeContext)
+    const [toggle] = useContext(DarkModeContext);
     return (
         <div
-            className={`preloader-container ${toggle? 'bg-theme-green-300' : 'bg-theme-yellow-100'}`}
+            className={`preloader-container ${
+                toggle ? 'bg-theme-green-300' : 'bg-theme-yellow-100'
+            }`}
             onLoad={() =>
                 setTimeout(() => {
                     const preloader = document.querySelector('.preloader-container');
-                    preloader.style.display = "none";
+                    preloader.style.display = 'none';
                 }, 1500)
             }
         >
