@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { DarkModeContext } from './imports';
 
-function ProfileCard({ imageURL, title, content }) {
+function ProfileCard({imageURL, title, content }) {
     const [toggle] = useContext(DarkModeContext);
     return (
         <div
@@ -19,20 +19,20 @@ function ProfileCard({ imageURL, title, content }) {
                 >
                     {title}
                 </h5>
-                <p
+                {/* <p
                     className={`card-text ${
                         toggle ? 'color-theme-blue-100' : 'color-theme-green-200'
                     }`}
                 >
                     {content}
-                </p>
+                </p> */}
                 <a
                     href="#popup"
                     className={`btn ${
                         toggle ? 'button-theme-green-300' : 'button-theme-red-100'
                     } text-white`}
                 >
-                    Go somewhere
+                    Preview
                 </a>
             </div>
         </div>
