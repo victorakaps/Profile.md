@@ -1,7 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react';
-import { DarkModeContext, ProfileCard, Navbar, PopUp } from './imports';
+import { DarkModeContext, ProfileCard, Navbar, PopUp, fetchData, loader } from './imports';
 import './DevProfiles.css';
-import { fetchData } from './imports';
 
 function DevProfiles() {
     const [toggle] = useContext(DarkModeContext);
@@ -27,9 +26,12 @@ function DevProfiles() {
         >
             <Navbar title="dev profiles" />
             <section className="overflow-auto" style={{ height: 'calc(100% - 90px)' }}>
-                <p className="loader" style={{ display: data.length === 0 ? 'block' : 'none' }}>
+                <div className={`w-100 h-100 d-flex align-items-center justify-content-center ${data.length === 0 ? "d-flex" : "d-none"}`}>
+                    <img src={loader} alt="loader" />
+                </div>
+                {/* <p className="loader" style={{ display: data.length === 0 ? 'block' : 'none' }}>
                     Loading...
-                </p>
+                </p> */}
                 <div className="p-4 row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 gy-4 overflow-auto align-items-center justify-content-center h-100">
                     {data.map((item, index) => (
                         <div className="col" key={index} onClick={() => setmd(() => item.md)}>

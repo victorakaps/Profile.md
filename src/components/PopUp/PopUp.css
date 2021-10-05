@@ -8,6 +8,7 @@
     padding: 30px;
     display: none;
     overflow: auto;
+    z-index: 1003
 }
 #popup > button {
     height: 50px;

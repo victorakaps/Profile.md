@@ -33,8 +33,9 @@ function Home() {
                     collecting awesome developer profiles worldwide
                 </p>
             </div>
+            <div className="d-flex align-items-center justify-content-evenly flex-column flex-sm-column flex-md-row">
             <button
-                className={`btn btn-lg shadow ${
+                className={`mx-lg-2 my-2 my-lg-0 btn btn-lg shadow ${
                     toggle ? 'button-theme-green-100' : 'button-theme-red-100'
                 }`}
             >
@@ -42,6 +43,25 @@ function Home() {
                     Explore More
                 </Link>
             </button>
+            <button
+                className={`mx-lg-2 my-2 my-lg-0 btn btn-lg shadow ${
+                    toggle ? 'button-theme-green-100' : 'button-theme-red-100'
+                }`}
+            >
+                <Link to="/contributors" className="text-white text-decoration-none">
+                    Contributors
+                </Link>
+            </button>
+            <button
+                className={`mx-lg-2 my-2 my-lg-0 btn btn-lg shadow ${
+                    toggle ? 'button-theme-green-100' : 'button-theme-red-100'
+                }`}
+            >
+                <a href="https://github.com/victor-thescuti/Profile.md/blob/main/CONTRIBUTING.md" className="text-white text-decoration-none">
+                    Add Your Profile
+                </a>
+            </button>
+            </div>
             {/* svg */}
             <img src={sideFlower} alt="left-flower" className="leftFlower position-absolute start-0 top-50" />
             <img src={sideFlower} alt="right-flower" className="rightFlower position-absolute end-0 top-50" />
