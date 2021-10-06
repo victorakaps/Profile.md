@@ -73,7 +73,7 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderchirag&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Coder Chirag :: Profile Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchirag&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Coder Chirag :: Top Langs" />
-<img width="45%" height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderchirag&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
+<img width="45%" height="180em" align="center" src="https://my-github-stats.herokuapp.com/?user=coderchirag&layout=compact&theme=radical&custom_title=streak-stats-ty&hide_border=false&layout=compact" />
 </p>
 
 ## 💫 Organisations I am Working in..
