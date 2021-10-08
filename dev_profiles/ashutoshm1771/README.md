@@ -1,6 +1,6 @@
 ### Hey! there 👋
 
-I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. 
+I'm Ashutosh Mishra, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a Software Engineer in India, all the way from Nepal. 
 
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
